@@ -1,0 +1,22 @@
+.btton{
+  float : right;
+  height: 100%;
+  width: 5rem;
+}
+
+
+.im-item{
+  background-color: pink !important;
+  font-weight: 500;
+  margin: 5px;
+  height: 2.5rem;
+}
+
+.sp{
+  width: 150px;
+  font-size: 750;
+}
+
+.active{
+  background-color: skyblue !important;
+}
